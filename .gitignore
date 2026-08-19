@@ -1,0 +1,4 @@
+.commandcode/
+dist/
+__pycache__/
+*.pyc
