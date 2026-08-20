@@ -236,4 +236,3 @@ def render_articles(*args, **kwargs) -> list[Article]:
 
 
 __all__ = ["Article", "slugify", "markdown_to_html", "render_article", "render_articles"]
-# noop
